@@ -61,7 +61,6 @@ El objetivo del análisis es **segmentar a los clientes** según sus patrones de
 - Se analizaron los **valores medios y dispersión de cada cluster**, comparándolos con las variables originales para identificar perfiles de consumo.  
 - Los grupos se caracterizaron según **tipo de cliente, volumen de compra y preferencias de producto**, evidenciando comportamientos diferenciados.
 
----
 
  **4. Conclusiones**
 
